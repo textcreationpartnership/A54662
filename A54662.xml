@@ -1,0 +1,559 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyrical vision or tragy-comedy as it was lately acted in the city of Bristol, discovered in a dream / by E. Phileroy.</title>
+            <author>Phileroy, E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54662</idno>
+            <idno type="STC">Wing P1985</idno>
+            <idno type="STC">ESTC R365</idno>
+            <idno type="EEBO-CITATION">12367571</idno>
+            <idno type="OCLC">ocm 12367571</idno>
+            <idno type="VID">60449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60449)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 221:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyrical vision or tragy-comedy as it was lately acted in the city of Bristol, discovered in a dream / by E. Phileroy.</title>
+                  <author>Phileroy, E.</author>
+               </titleStmt>
+               <extent>[8], 2, 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Philo Phileroy.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60449:1"/>
+            <pb facs="tcp:60449:1" rendition="simple:additions"/>
+            <p>A <hi>Satyrical Viſion,</hi> OR, Tragy-Comedy AS IT Was lately Acted in the City of BRISTOL, Diſcovered in a DREAM.</p>
+            <q>
+               <l>What ill-bred-Stars, or what <hi>Saturnian</hi> Fate</l>
+               <l>Did at this Citties Birth predominate,</l>
+               <l>Unhappy Place, thy Fortune was ſevere</l>
+               <l>Buſineſs, and Fools are moſt in Faſhion here:</l>
+               <l>Religion they profeſs, but yet have none</l>
+               <l>Wealth is the cheifeſt <hi>Deity</hi> they own.</l>
+            </q>
+            <p>By <hi>E: Phileroy.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Croom,</hi> for the Author. 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60449:2"/>
+            <pb facs="tcp:60449:2"/>
+            <head>TO THE Poor Dejected, and Deſpairing BRETHREN: THE <hi>Diſſenting CREW in General, under what Names or Titles ſoever, they deſire to be Dignified, or Diſtinguiſhed.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Patriots.</salute>
+            </opener>
+            <p>I Know not to whom I could more pro<g ref="char:EOLhyphen"/>perly make the Dedication of the fol<g ref="char:EOLhyphen"/>lowing <hi>Poem,</hi> ſince it ſeems naturally to crave your protection, not only as you are the Subject of it, but becauſe its palpable you have endeavourd to monopolize every thing that has but the appeareance of a <hi>Fault:</hi> ſo that tis but rational to infer that you are able to bear mine too, tho never
+<pb facs="tcp:60449:3"/>ſo Numerous in this Poem, which I muſt confeſs was done in <hi>Raptim,</hi> and therefore muſt have the greater need of ſuch <hi>Patrons;</hi> not but that its an unqueſtioned Verity that you have a ſufficient ſtock of your own, without any addition of mine: For who (in the <hi>Divels</hi> Name) has been the fo<g ref="char:EOLhyphen"/>menters of all feuds and Animoſities in this Nation? But you: Who the Authors, and Abetters of all things that may ſeem to oppoſe the common Tranquillity? But you: Who has endeavourd by all that <hi>Hell</hi> and Malice could invent, to make our Streets bluſh in Innocent Bloud, and Involve it once more into its <hi>Oliverian Chaos?</hi> But you: Who I ſay, has endeavourd the Total <hi>Subverſion</hi> of <hi>Monarchy,</hi> the <hi>Ruine</hi> of <hi>three Kingdoms,</hi> the diſtruction of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> it ſelf, and the <hi>undoing</hi> of all that Dare to be its <hi>Proſelytes?</hi> But you: So that by theſe and other your unparalelld Villa<g ref="char:EOLhyphen"/>nies (too Numerous to Incert) you have put <hi>Hell</hi> to a non-plus, and the <hi>Divels,</hi> themſelves into Diſtraction and Amaze<g ref="char:EOLhyphen"/>ment, to ſee themſelves out done, and all
+<pb facs="tcp:60449:3"/>together incapable of preparing a place for your reception, adequate to the Worſe then <hi>Scythian Cruelties</hi> that you have, and would have perpetrated.</p>
+            <p>But not to make the <hi>Porch</hi> bigger then all the <hi>Fabrick,</hi> I ſhall conclude with this Charitable Prayer, may <hi>Poyſon</hi> be your <hi>Drink,</hi> and <hi>Toads,</hi> worſe than <hi>Toads</hi> your cheifeſt <hi>Delicacies,</hi> may your Names be Eternally Obliterated from <hi>Honours</hi> Book, may your Curſe, but equalize your defects, and as you have ever made Bloud your Bol<g ref="char:EOLhyphen"/>ſter to lye on, ſo let Inſupportable Greifs be your Play-fellows and Inſeparable Com<g ref="char:EOLhyphen"/>panions.</p>
+            <closer>
+               <signed>Adeiu, <hi>E. P.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60449:4"/>
+            <head>To the Loyal READERS.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THere having been never any thing ſo diſmally repreſented to my Iuvenile Imaginations, as the late Horrid Proceed<g ref="char:EOLhyphen"/>ings of the <hi>Diſſenting Crew</hi> in General, and <hi>Jack Presbiter</hi> in particular, I thought I was oblig'd upon all occaſions to Expoſe its Abetters; eſpecially, ſince they have been pleaſed to reiterate all their <hi>Priſtine villanies</hi> in the late <hi>Diſcovered</hi> formidable <hi>Plot,</hi> againſt the beſt of <hi>Kings</hi> and <hi>Governments,</hi> and how farr this Citty has been Concern'd, I ſuppoſe it would be Tautology in the Higheſt to Incert.</p>
+            <q>
+               <pb facs="tcp:60449:4"/>
+               <l>— It being known as far</l>
+               <l>As is the <hi>Artick</hi> from th' <hi>Antartick</hi> Star</l>
+            </q>
+            <p>But you great <hi>Souls of Numbers</hi> (whom <hi>Apollo</hi> has made Heirs to his ever <hi>Verdant Tree</hi>) tis you, I ſay muſt Pardon my <hi>Pen-Featherd-Muſe</hi> (who I fear by the following <hi>unbak'd Poem</hi> has made <hi>Helicon</hi> a <hi>Puddle</hi> not a Spring) and I doubt it not, when you Conſider that ſhe was willing to attempt ſome thing, nay reſolved that these <hi>Miſcre<g ref="char:EOLhyphen"/>ants Exit</hi> ſhould be attended with a <hi>Sheet</hi>
+            </p>
+            <p>But Gentlemen being unwilling to de<g ref="char:EOLhyphen"/>tain you longer with Impertinences, I ſhall only pray, that the Fates would be pleaſed to be ſo kind as to graunt me this ſmall Requeſt: That when I ſhall be matricu<g ref="char:EOLhyphen"/>lated amongſt the Dead, (if that with <hi>Pythagoras,</hi> there be a <hi>Metempſychoſis</hi>) that they would ſend my ſoul into a <hi>Cat, Por<g ref="char:EOLhyphen"/>pois,</hi> or <hi>Owl:</hi> rather than any of theſe <hi>Re<g ref="char:EOLhyphen"/>ligious Alchymiſts,</hi> theſe <hi>Atheiſts againſt Earthly Gods</hi>
+               <pb facs="tcp:60449:5"/>
+               <q>
+                  <l>— that perſue,</l>
+                  <l>Deeds after which, no miſcheif can be new.</l>
+               </q>
+            </p>
+            <p>To this <hi>Prayer,</hi> I ſhall only ſubjoin my <hi>Reſolution,</hi> which in ſhort is to profeſs my ſelf Eternally,</p>
+            <closer>
+               <signed>Your Moſt Devoted Servant <hi>E: Phileroy.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:60449:5"/>
+            <head>TO HIS Ingenious Friend <hi>Phileroy,</hi> on his <hi>Satyrical Viſion</hi> a Copy of which was expoſed and derided.</head>
+            <lg n="1">
+               <head>(1)</head>
+               <l>LEt factious Knaves and buiſy <hi>Fools</hi> rail on</l>
+               <l>(The inveterate Foes to th' Tribe of <hi>Helicon</hi>)</l>
+               <l>Whilſt all impartial Men allow</l>
+               <l>Whats to your merit due,</l>
+               <l>For when they diſſapprove of what you write,</l>
+               <l>It argues Barrenneſs of wit</l>
+               <l>In them, or Spight:</l>
+               <l>Yet whilſt by them your wit's condemn'd;</l>
+               <l>It makes you more eſteem'd</l>
+               <l>By men of Loyalty and Sence,</l>
+               <l>For Envy always ſtrikes at th' greateſt Excellence.</l>
+            </lg>
+            <lg n="2">
+               <pb facs="tcp:60449:6"/>
+               <head>(2)</head>
+               <l>Write on then (Sr,) whilſt empty <hi>Criticks</hi> do</l>
+               <l>Their malice ſtill purſue,</l>
+               <l>For your deſert by it, doth greater ſhew.</l>
+               <l>Write on, and laſh the <hi>Soul-leſs Sots</hi> to ſence,</l>
+               <l>And teach the <hi>Rebel Crew</hi> Obedience,</l>
+               <l>Deſiſt not Sr, nor think your merit leſs,</l>
+               <l>Becauſe not Crown'd with due ſucceſs,</l>
+               <l>The mighty <hi>Laureat</hi> (that darling of the Nine)</l>
+               <l>Who in each Immortal Line,</l>
+               <l>Doth wit and Judgment joyn,</l>
+               <l>Whoſe muſe alone boy's up the ſinking ſtage</l>
+               <l>(Such is th' Ingratitude of th' unthinking Age)</l>
+               <l>Is not beneath his Bays, free from their bruitiſh Rage</l>
+               <l>So ſenceleſs Curs (they ſay) are often known</l>
+               <l>To bark with fury 'gainſt the Radiant <hi>Moon,</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Philo: Phileroy.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:60449:6"/>
+            <head>A <hi>Satyrical Viſion,</hi>
+            </head>
+            <lg>
+               <l>A <hi>Pollo's fiery Steeds</hi> were gone away,</l>
+               <l>And quite withdrawn, to give a Noon of Day</l>
+               <l>Unto the <hi>Antipodes,</hi> The ſable Night</l>
+               <l>Was now approach'd, and Day had took 'its Flight</l>
+               <l>Serene the Air, and now each fragrant <hi>Tree</hi>
+               </l>
+               <l>Advanc'd it ſelf, and all things pleaſant be</l>
+               <l>Dame <hi>Flora</hi> Struts in her new Livery:</l>
+               <l>When Preſt with th' plague of buſineſs, I with drew</l>
+               <l>Into a Verdant Bow'r where I might Veiw</l>
+               <l>The <hi>Earth</hi> which whileom did in <hi>Pennance</hi> ſtand</l>
+               <l>Clad in a ſheet of <hi>Snow,</hi> doth now command</l>
+               <l>Her glorious Slaves, who by their yearly Riſe</l>
+               <l>Do Homage pay and make a Sacrifice:</l>
+               <l>Mantles of Various Roſes now we ſee</l>
+               <l>Diſplay themſelves, and make a <hi>Galaxy,</hi>
+               </l>
+               <l>Theſe with a Purling <hi>Brook</hi> (whoſe ſtreams did glide</l>
+               <l>And paid a Tribute to the <hi>Gardens</hi> Pride)</l>
+               <l>
+                  <pb n="2" facs="tcp:60449:7"/>So charm'd my Sences, that I muſt reſigne</l>
+               <l>And quickly paid my Vows at <hi>Morpheus Shrine:</hi>
+               </l>
+               <l>No ſooner was my Soul at Liberty,</l>
+               <l>But through untrodden paths away doth ſty</l>
+               <l>Unto a place, where <hi>Rebells</hi> make their Neſt,</l>
+               <l>And <hi>Factions</hi> do, as in their cauſes, Reſt:</l>
+               <l>
+                  <hi>Faction</hi> in all 'its Colours there did Ride,</l>
+               <l>And ſaine it would Eternally abide:</l>
+               <l>A <hi>Hodg poch</hi> of Religions there did dwell,</l>
+               <l>Heaven's their Pretention, but their aim is <hi>Hell:</hi>
+               </l>
+               <l>A Miſcellaneous ſort of <hi>Rigid Slaves,</hi>
+               </l>
+               <l>
+                  <hi>Cenſorious fops, dull Fools, but Curſed Knaves.</hi>
+               </l>
+               <l>Here's <hi>Splay Mouth</hi> with his brace of Caps doth cry</l>
+               <l>
+                  <hi>Hallow my Hearts,</hi>
+                  <note place="margin">Geneva</note> 'tis Cowards fear to dy;</l>
+               <l>Let's then pull down this <hi>Babel Monarchy;</hi>
+               </l>
+               <l>We are the <hi>Saints;</hi> 'tis we muſt <hi>Rule,</hi> not they,</l>
+               <l>The Earth is ours, they therfore <hi>ſhall</hi> obey:</l>
+               <l>
+                  <hi>Tis thus Reſolv'd, nor ſhall thy fate</hi> withſtand,</l>
+               <l>But fall (Oh! Citty) by th' unerring hand</l>
+               <l>Of us the <hi>Saints,</hi> who <hi>muſt</hi> and <hi>will</hi> Command.</l>
+               <l>They then in <hi>Shoals</hi> appear, whoſe noiſe appalls,</l>
+               <l>Much worſe then Twenty <hi>Jriſh Funeralls:</hi>
+               </l>
+               <l>The Hidcous Clamour of great <hi>Nilos</hi> fall</l>
+               <l>If but to them Compared was but ſmall:</l>
+               <l>In fine, theſe <hi>Phaetons</hi> the world would burn,</l>
+               <l>And once more all into Confuſion turn:</l>
+               <l>
+                  <hi>Aſirea</hi> in great haſt deſcends from Heav'n</l>
+               <l>(Hearing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> irrevocable) Vote was giv'n)</l>
+               <l>
+                  <pb n="3" facs="tcp:60449:7"/>And being ſeated in her Splended Chair,</l>
+               <l>Summons theſe <hi>Miſcreants</hi> forthwith to appear</l>
+               <l>And thus accoſts them: Oh ye <hi>Sons of Hell:</hi>
+               </l>
+               <l>"That only do in Villany Excell;</l>
+               <l>"To the <hi>Black-Book</hi> whether you will or not</l>
+               <l>"You'r come, and muſt abide your Fatal Lot</l>
+               <l>"Your Shameleſs actions now might ſhame the <hi>Devil,</hi>
+               </l>
+               <l>"That ſcorn not to be thought the <hi>Summe</hi> of <hi>Evil:</hi>
+               </l>
+               <l>"Oh Impious Age devoted unto ill,</l>
+               <l>"Void of all Good, and is Reſolved ſtill</l>
+               <l>"To perſevere, When wilt thou taſte thy fill?</l>
+               <l>"Tis you that proſecute a Villany,</l>
+               <l>"Which would create a Bluſh i'th Sun to ſee:</l>
+               <l>"For if that <hi>Tranſmigration</hi> er'e was true,</l>
+               <l>"Tis now, tis now, moſt palpable in you:</l>
+               <l>"For <hi>Hell</hi> you Claim and take it as your due:</l>
+               <l>"<hi>Oh! Times Oh! Manners</hi> which Antiquity</l>
+               <l>"In all 'its Periods, nere the like could ſee;</l>
+               <l>"Nor will <hi>Poſterity</hi> beleive that Er'e,</l>
+               <l>"Such horrid Actions perpetrated were;</l>
+               <l>"You have reſolv'd to ſeek out nothing leſs,</l>
+               <l>"Then th' very <hi>Quinteſſence</hi> of Wickedneſs,</l>
+               <l>"Fearing to come behind the Age before</l>
+               <l>"In villanies, you now have Studied more;</l>
+               <l>"And for applauſe will act them o're and o're:</l>
+               <l>"Hence then dull <hi>Plotters, Hence ye Romiſh Crew</hi>
+               </l>
+               <l>"Make Room for <hi>Nobler Sinners</hi> that out do</l>
+               <l>"As far the <hi>Devils,</hi> as the <hi>Devils</hi> you,</l>
+               <l>
+                  <pb n="4" facs="tcp:60449:8"/>"Draw near ye <hi>Blood-Hounds</hi> you that fain would bring</l>
+               <l>"States to Confuſion, Ruine to a King:</l>
+               <l>"Draw near, and for your merits mount the <hi>Tree,</hi>
+               </l>
+               <l>"To which your <hi>Fathers Coppy</hi> makes you Free:</l>
+               <l>"And (ſince you were <hi>Ambitious</hi>) you ſhall have</l>
+               <l>"The <hi>Gates</hi> confer'd upon you for a <hi>Grave:</hi>
+               </l>
+               <l>"And you that did in ſo much honour Live,<note place="margin">W<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ams <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that, <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> argo pares,</hi>
+                  </note>
+               </l>
+               <l>"As Councel to maintain <hi>Prerogative,</hi>
+               </l>
+               <l>"<hi>Juſtice</hi> hath ſeiz'd upon you; make no doubt</l>
+               <l>"That you ſhall have, therefore <hi>I Spew you out</hi>
+               </l>
+               <l>"But you brave <hi>Hero's,</hi> you that did Repel</l>
+               <l>"Theſe factious <hi>Zealots,</hi> and theſe broods of <hi>Hell;</hi>
+               </l>
+               <l>"You that at <hi>Helm</hi> i'th worſt of times did ſtand,</l>
+               <l>"Reſolving to defend your Native Land,</l>
+               <l>"And with your Lives maintain great <hi>Charles</hi> Com<g ref="char:EOLhyphen"/>mand</l>
+               <l>"Blaze forth great Stars, for you ſhall each appear</l>
+               <l>"A <hi>Conſtellation</hi> in our <hi>Hemiſphere</hi>
+               </l>
+               <l>"Hence then <hi>Geneva Traſh,</hi> you'r out of date</l>
+               <l>"When theſe <hi>Bright Rays</hi> appear, you diſſipate:</l>
+               <l>"Shine on <hi>Brave Souls</hi> and let theſe <hi>Villains</hi> ſee</l>
+               <l>"(Maugre their Helliſh Arts and Treachery;</l>
+               <l>"That you ſhall ſhine thus to Eternity</l>
+               <l>"And now I go (methinks I hear the Skys</l>
+               <l>"Eccho your praiſes in ſweet Harmonies,</l>
+               <l>"I Conſtitute you all my deputies:</l>
+               <l>"But when theſe <hi>Brats of Hell</hi> ſhall once expire,</l>
+               <l>"I'le make the <hi>Devils</hi> rage, the <hi>Damn'd</hi> admire</l>
+               <l>"The <hi>Flames</hi> which <hi>Theſe</hi> ſhall add unto <hi>Their fire,</hi>
+               </l>
+            </lg>
+            <q>
+               <pb n="5" facs="tcp:60449:8"/>
+               <l>This ſaid, ſhe in great haſt aſcends the Skys,</l>
+               <l>And unto the <hi>Celeſtial Manſions</hi> Flys</l>
+            </q>
+            <lg>
+               <l>No ſooner gone, but faces we might ſee</l>
+               <l>As ſad as greif could paint, or Maſery,</l>
+               <l>Some howld, and cry'd, curſt be this Fatal Day</l>
+               <l>Let diſmal Clouds and darkneſs come, and may</l>
+               <l>It e're in <hi>Times Book</hi> be enrolled thus</l>
+               <l>Black, Hideous, Fatal Inauſpicious.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Judges</hi> ſate, the <hi>Firſt</hi> (with diſmal Crys</l>
+               <l>And trembling that un nervd his quaking Thighs)</l>
+               <l>Appeard,<note place="margin">Earledom.</note> the <hi>Devils Enchiridion,</hi> he</l>
+               <l>That was his <hi>Factor</hi> for Iniquity:</l>
+               <l>This is the <hi>Hieroglyphick</hi> of all Vice,</l>
+               <l>The <hi>Scum</hi> and <hi>Spawne</hi> of <hi>Fiend</hi> now in diſguiſe</l>
+               <l>Some took him for ſome <hi>Noble-man,</hi> and I</l>
+               <l>Firſt thought there might be ſome Affinity</l>
+               <l>By's name, and faith he's <hi>Great</hi> in <hi>Villany:</hi>
+               </l>
+               <l>His ſentence was to teach the <hi>Stones to Swim,</hi>
+               </l>
+               <l>To Cut the Water, fill ſeives to the Brim:</l>
+               <l>His odious Name when mention'd ſhould imply</l>
+               <l>The <hi>Summe</hi> and <hi>Abſtract</hi> of Iniquity;</l>
+               <l>In fine, if e're he ſhould appear again</l>
+               <l>To be the Perfect Subject of <hi>Diſdain.</hi>
+               </l>
+               <l>The next was order'd for to drink good Store</l>
+               <l>Without Delay of un mixt <hi>Helebore,</hi>
+                  <note place="margin">Fin:</note>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:60449:9"/>When the next came there iſſued joyful Crys</l>
+               <l>(Such as did reach the Star-enamel'd Skys)</l>
+               <l>O Let that <hi>Day</hi> for ever <hi>Baniſh'd</hi> be,<note place="margin">Dies.</note>
+               </l>
+               <l>And ever hid in dull <hi>Obſcurity,</hi>
+               </l>
+               <l>Let naught but ill-preſaging <hi>Owls</hi> appear,</l>
+               <l>Let it be curſ'd, and quite forgot i'th Year.</l>
+               <l>T was thought ſufficient for the next,<note place="margin">Dirg.</note> that He</l>
+               <l>Should <hi>Penannce</hi> do, in his Wives <hi>Shiſt,</hi> whilſt ſhe</l>
+               <l>Firks him, (as <hi>Pluto Nol</hi>) Eternally.</l>
+               <l>The next Appearence was a <hi>Speaking Toaſt</hi>
+               </l>
+               <l>A <hi>Living Spunge,</hi>
+                  <note place="margin">Haleo.</note> that all his Brains had loſt:</l>
+               <l>The Sentance he receiv'd in Short was thus;</l>
+               <l>That he ſhould puniſh'd be, with <hi>Tantalus.</hi>
+               </l>
+               <l>Some ſay the <hi>Devil's</hi> unto <hi>Black</hi> inclin'd;</l>
+               <l>But faith he's <hi>Brown,</hi>
+                  <note place="margin">Brow. All us.</note> and ſometimes <hi>White</hi> we find:</l>
+               <l>Yet, that this difference reconcil'd might be,</l>
+               <l>T was order'd that they ſtill be <hi>One,</hi> not <hi>three,</hi>
+               </l>
+               <l>Since in <hi>Black Crimes</hi> they all ſo well agree.</l>
+               <l>What Prodigy in Nature next doth move</l>
+               <l>Bleſs us!<note place="margin">Coleman</note> A <hi>Horned Beaſt</hi> with <hi>Teeth</hi> above!</l>
+               <l>Monſter of Nature! Let him never be</l>
+               <l>Admitted into Mans Society,</l>
+               <l>Let him be <hi>Pimp</hi> unto his <hi>Rampant Whore</hi>
+               </l>
+               <l>Let him (<hi>Contented Fool</hi>) attend the Door</l>
+               <l>Till Time and Memory ſhall be no more,</l>
+               <l>A Wife' Heavens bleſs us! with a <hi>Parboild Face</hi>
+               </l>
+               <l>
+                  <hi>A Gypſie Varniſh</hi> to prevent Diſgrace.</l>
+               <l>
+                  <pb n="7" facs="tcp:60449:9"/>Next comes of <hi>Tygers</hi> or of <hi>Panthers</hi> brood,</l>
+               <l>Whoſe Dreadful Healths are Morning draughts in Blood:</l>
+               <l>Repleniſh villain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that <hi>Hell</hi> do's Inſpire,<note place="margin">Cis.</note>
+               </l>
+               <l>May Heaven once more Vomit ſuch fleakes of fire</l>
+               <l>As might make thee and all the Damn'd admire:</l>
+               <l>T'was order'd (that when <hi>Riſing Stars</hi> ſhould Spread</l>
+               <l>Their Golden flames, and <hi>Sol</hi> withdraw his Head)</l>
+               <l>For <hi>Barking Owls, Ambiguous Bats</hi> that he</l>
+               <l>Without delay ſhould a Companion be,</l>
+               <l>And hooted quite from all mens Company.</l>
+               <l>
+                  <hi>Deſert</hi> comes next, and he muſt <hi>Merit</hi> Well,</l>
+               <l>Therefore with <hi>Staly,</hi> he was ſent to <hi>Hell,</hi>
+                  <note place="margin">Meritus.</note>
+               </l>
+               <l>And there 't was thought would teach him to Rebel.</l>
+            </lg>
+            <q>
+               <l>Twice Sacred Powers aſſiſt my Trembling Quill!</l>
+               <l>(You that do ever haunt the Sacred Hill,)</l>
+               <l>Oh! be propitious, Oh laſſiſt my Pen</l>
+               <l>To anatomize the Deeds of worſe than Men.</l>
+            </q>
+            <lg>
+               <l>The next Appearance was the <hi>Stygian King</hi>
+               </l>
+               <l>That Prince of <hi>Acheron,</hi> who with him did bring</l>
+               <l>A Leaſh of <hi>Beagles,</hi>
+                  <note place="margin">Leycors, Wats, Jack.</note> who their Game ſo well</l>
+               <l>Purſu'd, that to be fire-brands of Hell</l>
+               <l>They well deſerv'd; He therefore did deſire</l>
+               <l>They might be added to his hungry fire:</l>
+               <l>And ſince they ſerv'd ſo well, without delay,</l>
+               <l>He beg'd that he might them their Wages pay;</l>
+               <l>T'was ſoon agreed, ſince they were known to be</l>
+               <l>Th' exact <hi>Perfection</hi> of all <hi>Villany:</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:60449:10"/>With that he Seiz'd them, and with his Nimble wings</l>
+               <l>(So have I ſeen how from the Trembling ſtrings</l>
+               <l>The piercing Arrows quickly fly away)</l>
+               <l>He breaks the boundleſs Air without delay:</l>
+               <l>With that Exalted voices Reach the Skies,</l>
+               <l>Which was ſucceeded with Reſounding Cries,</l>
+               <l>"<hi>If that in Hell there no more Torments be,</hi>
+               </l>
+               <l>"<hi>Wee'l not come there, becauſe we them muſt ſee.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe,<note place="margin">Ningdum Cor Flindg Gle—<hi>&amp;c.</hi>
+                  </note> by ſome <hi>Mungrel Bats,</hi> Succeeded were,</l>
+               <l>That of this <hi>Factious Crew</hi> brought up the <hi>Rear:</hi>
+               </l>
+               <l>Theſe Sons of <hi>Proteus,</hi> that do ever Run</l>
+               <l>With th' Current, and adore the <hi>Riſing Sun;</hi>
+               </l>
+               <l>Theſe <hi>preſent Tenſes,</hi> that be that or this,</l>
+               <l>Were by a Speedy <hi>Metamorphoſis</hi>
+               </l>
+               <l>Transform'd, and in a Moment did put on</l>
+               <l>The Various Forms of the <hi>Camelion:</hi>
+               </l>
+               <l>Thus the Rewards of <hi>Faction</hi> here will be</l>
+               <l>Shame, or to Dangle on the <hi>Fatal Tree;</hi>
+               </l>
+               <l>Hereafter Horror, Pain and Miſery.</l>
+               <l>With that a voice was heard like Thunder Loud,</l>
+               <l>When it has broke through a divided Cloud</l>
+               <l>And thus began: —O! Happy Happy Day</l>
+               <l>"Be thou e're Crownd with <hi>Sols</hi> moſt glorious Ray;</l>
+               <l>"I'menow imparadiz'd, methinks. I ſee</l>
+               <l>"The <hi>Gods</hi> deſcend, and joyntly do agree:</l>
+               <l>"To honour it, Kind <hi>Neptune</hi> layes aſide</l>
+               <l>"His <hi>Trident, Aeolus</hi> the Winds does hide:</l>
+               <l>
+                  <pb n="9" facs="tcp:60449:10"/>"Methinks I ſee upon each ſmiling Wave</l>
+               <l>"The Sportive <hi>Nymphs</hi> to Dance, the wind their ſlave</l>
+               <l>"To wait upon them, now <hi>Apolloe's Quire</hi>
+               </l>
+               <l>"With their melodious ſonnets ſo Inſpire;</l>
+               <l>"That the wild <hi>Satyrs</hi> Dancing on the <hi>Strand,</hi>
+               </l>
+               <l>"Like gazing <hi>Stags</hi> they in amazement ſtand:</l>
+               <l>"Swell then my Charming Joys, and let this Day</l>
+               <l>"Be Conſecrated, let it nere decay,</l>
+               <l>"Until the <hi>Ox</hi> take wing and fly away.</l>
+               <l>"Let <hi>Bacchus</hi> now in burniſh'd Gold goe Round,</l>
+               <l>"And <hi>Muſick</hi> in a well digeſted ſound</l>
+               <l>"Shall pierce the willing Air in Sweet Contention,</l>
+               <l>"Raping the willing Ears into Attention,</l>
+               <l>"Our <hi>Tables</hi> ſhall groan with Varietys</l>
+               <l>"Which may the moſt Luxurious Pallats pleaſe.</l>
+               <l>"The ſtudied Diſhes which ſhall re-ſupply,</l>
+               <l>"Each vacancy will ſo invite the Eye,</l>
+               <l>"That only with the fight 't will ſatisfie:</l>
+               <l>"In fine wee'l think that we have loſt that hour,</l>
+               <l>"That adds not to our Pleaſure or our Power:</l>
+               <l>With that the <hi>People</hi> made the <hi>Palace</hi> Ring,</l>
+               <l>Who in their Joyfull acclamations Sing,</l>
+               <l>
+                  <hi>Long live Great Charles, Long live our Gracious King:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>At which with Silken Wings <hi>Sleep</hi> from my Eyes</l>
+               <l>Quite diſappears, and now away ſhe Flies.</l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:60449:11"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>YOur Pardon <hi>Gentlemen,</hi> for Faith my <hi>Aiery Geni<g ref="char:EOLhyphen"/>ous</hi> was not ſo truſty, as I imagined, (as I had like to have found to my coſt;) For going the other day to hear what News; I was accoſted by a <hi>Diminitive Book-Sel<g ref="char:EOLhyphen"/>ler,</hi> who came quivering and trembling, (as doth the Earth when <hi>Neptune</hi> ſtrikes,) and cryed <hi>Juſtice;</hi> For that he was left out in the preceding <hi>Poem:</hi> whereas (<hi>conſideratis conſiderandis,</hi>) he had deſerved it as much as any; I told him he ſhould have Juſtice done: Vpon which, I have preſumed to ſubjoin this additional Character.</hi>
+            </p>
+            <p>WEll then, to begin with my <hi>Gentleman,</hi> He is a True <hi>Iack-a-Lent</hi> that is ſo charitable to lond a light to others, but himſelf nothing but a Vapour: And if ever the <hi>Devil</hi> appeared in our times like a <hi>Samuel,</hi> it is he: For take him as to his appearance he may be tolerably honeſt; but when <hi>Opus,</hi> and <hi>Uſus,</hi> are the caſe (ſo it may be privately ſecured or obtained,) He begs your Pardon, and is a <hi>Devil</hi> with an <hi>Emphaſis:</hi> That is to ſay a <hi>True Whigg:</hi> So that like the Apples of <hi>Sodom</hi> to look on, he may be fair and delectable, but come to the Teſt is wholly putrified: Take him in his return from a Tavern, he will make an Excellent <hi>Lawyer,</hi> for he ever makes <hi>Indentures</hi> as he goes: There is a great diſpro<g ref="char:EOLhyphen"/>portion between his <hi>head</hi> and his <hi>glaſs,</hi> the former be<g ref="char:EOLhyphen"/>ing ever <hi>empty,</hi> but the latter <hi>full,</hi> provided it be at other mens charges: He is an Exact <hi>Italian</hi> in <hi>Carnival Time,</hi> one ſide of him <hi>French,</hi> and the other <hi>Spaniſh;</hi> for when a <hi>Whig</hi> comes he is <hi>True-blew,</hi> but if <hi>Loyalty</hi> appear he is then as <hi>true</hi> as <hi>Steel;</hi> So that with the <hi>Marygold</hi> he follows the <hi>Sun,</hi> and opens and ſhuts with that that is uppermoſt. If we may term a <hi>Cypher</hi> any thing, he may then pretend to be ſomething; for he was ever ſuch in the <hi>Accompts</hi> of all that have tryed him, if ſo we may
+<pb n="11" facs="tcp:60449:11"/>ſoon ſumme up all that concerns him, which in ſhort may be thus: <hi>Newgate</hi> (as long as he lives) is The <hi>Golledge</hi> he belongs to, whither he hourly expect; to be ſent for, in order to be matriculated, The <hi>Gallows</hi> when he dies) his unavoidable <hi>Receiver,</hi> and <hi>Hell</hi> (after his <hi>Exit,</hi>) his moſt certain <hi>Ne plus ultra,</hi> where he will un<g ref="char:EOLhyphen"/>doubtedly cheat <hi>Pluto,</hi> (as he did all that dwelt with him upon Earth,) for Quivering, Shaking, and Gna<g ref="char:EOLhyphen"/>ſhing of Teeth, he hath ſo familiarized himſelf to here becauſe he hath reſolved they ſmall be no puniſhment to him hereafter. But more particularly;</p>
+            <p>As to his Parentage, he was begot by <hi>Proteus</hi> on a <hi>Chamelion,</hi> and for his Religion it is to chuſe: for hee'l <hi>Conform, Perform, Reform</hi> into any <hi>Form,</hi> ſo as he may be <hi>Viccar</hi> of <hi>Bray,</hi> (that is, ſo as he may be kept from breaking,) yet to give the Devil his due he is ſo Re<g ref="char:EOLhyphen"/>ligious, that he never awakes but with this <hi>Godly Letany</hi> in his mouth, <hi>from unfill'd Canns, and empty Bowls, Libe<g ref="char:EOLhyphen"/>ra me;</hi> for full ones are now as Natural to him as a Cittern is to a Barber, which, rather then want he would chuſe all the <hi>Plagues</hi> of <hi>Ae<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gip:</hi> He is reſolved to Sym<g ref="char:EOLhyphen"/>pathiſe with his Trade, and hath therefore bound him<g ref="char:EOLhyphen"/>ſelf up in <hi>Sheep Skin,</hi> (and is a Sot) in <hi>Folio:</hi> He is ſuch a ſuper-annuated <hi>Sardanapalus,</hi> that I Queſtion if the Plague was a Woman, whether he would ſtick to Court it, for ſo, 3 might be ſaved (<hi>i: e:</hi> himſelf, <hi>Bac<g ref="char:EOLhyphen"/>chus,</hi> and <hi>Vanus</hi>) he cares not if the World runs into it's Priſtine Deluge again.</p>
+            <p>In fine, as to his valour it's great. For he <hi>is Cozen German</hi> to the <hi>Satyr</hi> that fell dead at the noiſe of his own Horn, for going the other day through a Street, his Sword happened to touch his Leg, at which he was ſtruck into ſuch an unwonted amazement, that his Limbs were imediately disjointed and un-nerved: From which perceiving he is never able to diſengage himſelf, I muſt there leave him Quivering and Shaking till Time it ſelf ſhall have.</p>
+            <trailer>AN END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
